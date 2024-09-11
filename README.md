@@ -1,9 +1,5 @@
 # app-kasada
-# app-kasada
 
-# Creating the content for the README.txt file
-readme_content = “””
-Google Drive to Azure Transfer Application
 
 This application enables users to securely transfer .xlsm files from a Google Drive folder to Azure Blob Storage. The application includes user authentication, with login and password management. It also logs every user action such as login, file viewing and file transfer in a log file.
 
@@ -69,4 +65,3 @@ Sidebar options:
 - **Enter Google Drive folder URL**: Enter the link to the Google Drive folder from which you wish to transfer files.
 - **View files**: Lists all files in the specified Google Drive folder.
 - Transfer files to Azure**: Transfers `.xlsm` files to Azure Blob Storage.
-“"”
