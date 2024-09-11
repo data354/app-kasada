@@ -33,7 +33,7 @@ Installation :
 3. **Configure your Google OAuth credentials**:
    - Go to [Google Cloud Console](https://console.cloud.google.com/).
    - Create a new project and activate the **API Google Drive**.
-   - Create **OAuth 2.0 credentials** and download the `credentials.json` file.
+   - Create **service account credentials** and download the `credentials.json` file.
    - In the project's root folder, create a folder called `creds` and place your `credentials.json` file in this folder:
      mkdir creds
      mv /path/to/your/credentials.json creds/
