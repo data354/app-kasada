@@ -1,0 +1,9 @@
+2024-09-11 09:02:34.499614 - bet - Logged in
+2024-09-11 09:03:00.395828 - bet - Viewed files in Google Drive
+2024-09-11 09:03:03.477720 - bet - Logged out
+2024-09-11 09:03:50.367802 - bet - Logged in
+2024-09-11 09:04:30.320405 - bet - Logged in
+2024-09-11 09:05:17.641190 - bet - Viewed files in Google Drive
+2024-09-11 09:06:32.800164 - bet - Transferred files to Azure
+2024-09-11 09:06:38.415545 - bet - Logged out
+2024-09-11 09:09:54.153311 - bet - Logged in
