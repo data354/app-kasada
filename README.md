@@ -53,7 +53,7 @@ google-drive-to-azure-transfer/
 ├── users.json # Stores user credentials (generated at runtime)
 ├── log.txt # Records user actions (generated at runtime)
 ├── creds/ # Contains credentials.json for access to Google Drive API
-│ └── credentials.json # OAuth 2.0 credentials for the Google Drive API
+│ └── credentials.json # service account credentials for the Google Drive API
 └── requirements.txt # Python dependencies
 
 Running the application:
